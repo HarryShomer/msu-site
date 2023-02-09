@@ -17,14 +17,19 @@ Office: 428 S Shaw Lane, Engineering Building 3308, East Lansing, MI
 
 - Knowledge Graph Representation Learning 
 - Link Prediction
-- Graph Neural Networks
+- Graph Representation Learning
 
 
-== Awards
+== News
 
-- NRT-Impacts Fellowship, 2021-2022
-- MSU Engineering Distinguished Fellowship, 2020
+- \[01/2023\] Our work "[ Toward Degree Bias in Embedding-Based Knowledge Graph Completion]" is accepted by WWW'23
+- \[01/2023\] Invited to serve as a PC member for ACL'23
+- \[09/2022\] Invited to serve as a PC member for MLoG@ICDM'22
+- \[08/2022\] New preprint "[https://arxiv.org/abs/2208.14322 Learning Representations for Hyper-Relational Knowledge Graphs]"
+- \[06/2022\] Our work “[https://arxiv.org/abs/2207.10032 Detecting Harmful Conversational Content towards LGBTQIA+ Individuals]” is accepted by the Queer in AI Workshop @ NAACL'22
+- \[05/2022\] New preprint "[https://arxiv.org/abs/2205.10652 Are Graph Neural Networks Really Helpful for Knowledge Graph Completion?]"
+- \[01/2022\] Invited to serve as a PC member for MLoG@WSDM'22
+- \[10/2021\] Invited to serve as a PC member for WSDM'22
+- \[04/2021\] Awarded the NRT-Impacts Fellowship
+- \[08/2020\] Awarded the MSU Engineering Distinguished Fellowship
 
-== Service
-- PC Member: WSDM 2022, MLOG ICDM 2022, MLOG WSDM 2022, AI4EDU AAAI 2022
-- External Reviewer: KDD 2021, CIKM 2021, CIKM 2022, EMNLP 2022
