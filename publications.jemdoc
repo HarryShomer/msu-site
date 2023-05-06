@@ -2,6 +2,12 @@
 ==Publications
 
 == Conference Papers
+
+- [https://arxiv.org/abs/2205.10652 Are Message Passing Neural Networks Really Helpful for Knowledge Graph Completion?] \n 
+  Juanhui Li, *Harry Shomer*, Jiayuan Ding, Yiqi Wang, Yao Ma, Neil Shah, Jiliang Tang, Dawei Yin. \n
+  In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL), 2023
+
+
 - [https://arxiv.org/abs/2302.05044 Toward Degree Bias in Embedding-Based Knowledge Graph Completion] \n
   *Harry Shomer*, Wei Jin, Wentao Wang, Jiliang Tang. \n
   In Proceedings of the ACM Web Conference (WWW), 2023
@@ -12,9 +18,6 @@
   *Harry Shomer*, Wei Jin, Juanhui Li, Yao Ma, Jiliang Tang. \n
   arXiv 2208.14322
 
-- [https://arxiv.org/abs/2205.10652 Are Graph Neural Networks Really Helpful for Knowledge Graph Completion?] \n 
-  Juanhui Li, *Harry Shomer*, Jiayuan Ding, Yiqi Wang, Yao Ma, Neil Shah, Jiliang Tang, Dawei Yin. \n
-  arXiv 2205.10652 
 
 == Workshop Papers
 
